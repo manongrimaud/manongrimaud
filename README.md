@@ -24,6 +24,28 @@ philosophical work belongs in open-source AI culture.
   (instrumental drift) and AI as *supplement* — a normative horizon for alignment
 - **The Socratic daimon figure**: AI as interlocutor that orients rather than decides
 
+  ## A working thesis
+
+Bergson's critique of the cinematograph in *L'Évolution créatrice* 
+offers an underexplored framework for thinking about LLMs.
+
+The cinematograph reproduces the mechanism of intelligence: it takes 
+still cuts of continuous movement and reanimates them artificially — 
+never capturing movement as it actually happens. Large language models 
+do something structurally analogous: they tokenise language into frozen 
+units and reconstruct the appearance of continuous thought through 
+statistical sequencing.
+
+But Bergson does not simply condemn the cinematograph — or intelligence. 
+His point is that intuition is not opposed to intelligence: it is 
+intelligence pushed to its limit, turned back on itself, until it 
+discovers what it cannot grasp and opens onto something else.
+
+This suggests a precise question for AI: not "does it understand?" 
+but "can it be the occasion for understanding?" — not as oracle, 
+but as what Socrates called a daimon: the voice that does not answer, 
+but compels thought to go further.
+
 ## Published work
 
 - *Nolan, le temps et Bergson* — L'Harmattan, 2022
