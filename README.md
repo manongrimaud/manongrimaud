@@ -21,7 +21,7 @@ philosophical work belongs in open-source AI culture.
 - **Stanley Cavell's ordinary language philosophy**: skepticism, world-projection,
   and the phenomenology of human-machine interaction
 - **Bergson's philosophy of technology**: the distinction between AI as *organon*
-  (instrumental drift) and AI as *supplement* — a normative horizon for alignment
+  (instrumental drift) and AI as *supplément d'âme* — a normative horizon for alignment
 - **The Socratic daimon figure**: AI as interlocutor that orients rather than decides
 
 ## A working thesis
