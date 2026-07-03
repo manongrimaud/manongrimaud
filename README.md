@@ -22,7 +22,7 @@ philosophical work belongs in open-source AI culture.
   and the phenomenology of human-machine interaction
 - **Bergson's philosophy of technology**: the distinction between AI as *organon*
   (instrumental drift) and AI as *supplément d'âme* — a normative horizon for alignment
-- **The Socratic *daïmon figure* **: AI as interlocutor that orients rather than decides
+- **The Socratic *daïmon figure***: AI as interlocutor that orients rather than decides
 
 ## A working thesis
 
