@@ -24,7 +24,7 @@ philosophical work belongs in open-source AI culture.
   (instrumental drift) and AI as *supplement* — a normative horizon for alignment
 - **The Socratic daimon figure**: AI as interlocutor that orients rather than decides
 
-  ## A working thesis
+## A working thesis
 
 Bergson's critique of the cinematograph in *L'Évolution créatrice* 
 offers an underexplored framework for thinking about LLMs.
