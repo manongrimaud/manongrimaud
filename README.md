@@ -36,7 +36,7 @@ Areas of interest:
 ## Current Learning
 
 *Currently completing / planning* : 
-- Trustworthy AI: Managing Bias, Ethics, and Accountability — Johns Hopkins University 
+- Trustworthy AI : Managing Bias, Ethics, and Accountability — Johns Hopkins University 
 - Evaluating Large Language Model Outputs: A Practical Guide — Coursera
 - Elements of AI — University of Helsinki
 
