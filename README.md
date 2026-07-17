@@ -1,6 +1,6 @@
 # Manon Grimaud
 
-**Philosopher and editor · Currently transitioning toward AI evaluation, ethics, accountability and managing bias · Researcher in Philosophy of Language & AI**
+**Philosopher and editor · Currently transitioning toward AI evaluation, ethics, accountability and bias · Researcher in Philosophy of Language & AI**
 
 📍 Paris 
 
@@ -35,6 +35,7 @@ Areas of interest:
 
 ## Current Learning
 
+*Currently completing / planning* : 
 - Trustworthy AI: Managing Bias, Ethics, and Accountability — Johns Hopkins University 
 - Evaluating Large Language Model Outputs: A Practical Guide — Coursera
 - Elements of AI — University of Helsinki
