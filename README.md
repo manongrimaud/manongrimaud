@@ -33,7 +33,7 @@ Areas of interest:
 - Human-AI interaction and responsible AI
 - Philosophy of language applied to model behaviour
 
-  ## Current Learning
+## Current Learning
 
 - Trustworthy AI: Managing Bias, Ethics, and Accountability — Johns Hopkins University 
 - Evaluating Large Language Model Outputs: A Practical Guide — Coursera
