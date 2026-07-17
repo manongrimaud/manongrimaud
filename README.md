@@ -72,12 +72,4 @@ but compels thought to go further.
 - *Le cinéma de Tim Burton. Du figural à la psychanalyse* — L'Harmattan, 2022
 - *La conversion. Vivre avec Bergson* — L'Harmattan, 2022
 
-Literary and filmographic criticism: *La Règle du Jeu* · *Harper's Bazaar France*
-
-## Current position
-
-Literary Editor at **Gallimard** (collections: Blanche, Haute Enfance,
-sciences humaines, Philophile) — contract ending August 2026.
-Editor-in-chief of literary journal **Année Zéro**.
-
 *Available from August 2026.*
